@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		442172831F98232C00F7B224 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 442172821F98232C00F7B224 /* main.cpp */; };
+		442172831F98232C00F7B224 /* BubbleSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 442172821F98232C00F7B224 /* BubbleSort.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		4421727F1F98232C00F7B224 /* BubbleSort: Counting Swaps */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BubbleSort: Counting Swaps"; sourceTree = BUILT_PRODUCTS_DIR; };
-		442172821F98232C00F7B224 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		442172821F98232C00F7B224 /* BubbleSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BubbleSort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		442172811F98232C00F7B224 /* BubbleSort: Counting Swaps */ = {
 			isa = PBXGroup;
 			children = (
-				442172821F98232C00F7B224 /* main.cpp */,
+				442172821F98232C00F7B224 /* BubbleSort.cpp */,
 			);
 			path = "BubbleSort: Counting Swaps";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				442172831F98232C00F7B224 /* main.cpp in Sources */,
+				442172831F98232C00F7B224 /* BubbleSort.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
